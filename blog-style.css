@@ -1,0 +1,55 @@
+body {
+
+font-family: Arial, sans-serif; margin: 0; padding: 0;
+
+}
+
+title {
+
+background-color: #2EFE2E; color: #fff;
+
+padding: 10px 20px; text-align:
+
+center;
+
+}
+
+nav {
+
+background-color: #af6fa4; padding: 10px 20px; text-align:
+
+center;
+
+}
+
+h1 {
+
+color: #DF3A01;
+
+text-decoration: none;
+
+margin: 0 10px;
+
+}
+
+• content {
+
+padding: 20px;
+
+text-align: center;
+
+}
+
+• container {
+
+max-width: 600px; margin: 20px auto; padding: 0 20px;
+
+}
+
+h3 {
+
+border-bottom: 1px solid #ccc;
+
+padding: 10px 0;
+
+}
